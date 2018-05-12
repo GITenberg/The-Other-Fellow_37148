@@ -1,0 +1,33 @@
+_repo: The-Other-Fellow_37148
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37148-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Francis Hopkinson
+    alias: Smith, F. Hopkinson (Francis Hopkinson)
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '444'
+    url: http://www.gutenberg.org/2009/agents/444
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+tableOfContents: Dick Sands, convict -- A Kentucky Cinderella -- A waterlogged town
+  -- The boy in the cloth cap -- Between showers in Dort -- One of Bob's tramps --
+  According to the law -- "Never had no sleep" -- The man with the empty sleeve --
+  "Tincter ov iron" -- "Five meals for a dollar".
+title: The Other Fellow
+url: http://www.gutenberg.org/ebooks/37148
